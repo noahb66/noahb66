@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noahb66
-- 👀 I’m interested in Python and C Programming, TidalCycles, emulation, and pretty much anything coding related!
+- 👀 I’m interested in Python and C Programming, C# programming, TidalCycles, emulation, and pretty much anything coding related!
 - 🌱 I’m currently learning C, JavaScript, and Python!
 
 <!---
