@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noahb66
 - 👀 I’m interested in Python and C Programming, C# programming, TidalCycles, emulation, and pretty much anything coding related!
-- 🌱 I’m currently learning C, JavaScript, and Python!
+- 🌱 I’m currently learning C, C++, C#,  JavaScript, and Python!
 
 <!---
 noahb66/noahb66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
